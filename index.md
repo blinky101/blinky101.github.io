@@ -1,12 +1,15 @@
-# Hello World
+# Blinky 101
 
-Dit is een test
+Step by step beyond the basics.
 
-## Titel
+Blinky101 is a collection of projects that helps you get up to speed with various microcontroller platforms. We have step by step tutorials and guides to help you start developing for embedded systems using open source tools. 
 
-opsomming:
+## Microcontrollers
 
-* 1
-* 2
-* 3
-* 4
+* lpc11uxx
+* lpc43xx
+
+## Debugging
+
+* Black Magic Probe
+* OpenOCD
