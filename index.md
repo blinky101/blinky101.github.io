@@ -6,7 +6,7 @@ Blinky101 is a collection of projects that helps you get up to speed with variou
 
 ## Microcontrollers
 
-* lpc11uxx
+* [lpc11uxx](https://blinky101.github.io/blinky_lpc11uxx/)
 * lpc43xx
 
 ## Debugging
