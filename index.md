@@ -35,7 +35,7 @@ This is a list of debuggers: they are used to connect to your target board. The 
     
 * OpenOCD
 
-    Most projects can also be debuggen/flashed via [OpenOCD](http://openocd.org) (e.g. in combination with the [JTAG LockPick tiny 2](http://www.distortec.com/jtag-lock-pick-tiny-2/)
+    Most projects can also be debuggen/flashed via [OpenOCD](http://openocd.org) (e.g. in combination with the [JTAG LockPick tiny 2](http://www.distortec.com/jtag-lock-pick-tiny-2/)).
 
 
 ## Help us add more content
