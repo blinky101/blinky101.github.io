@@ -12,7 +12,7 @@ Below you find a list of supported platforms. Each platform has a set of guides 
 
     Entry-level 32-bit cortex-m0 microcontrollers, 50MHz, built-in USB.
     
-    **Tutorials:**
+    Tutorials:
     * [Part 0: Getting Started](./blinky_lpc11uxx/getting_started)
     * [Part 1: Bare-metal Blinky](./blinky_lpc11uxx/tutorial_part1)
     * [Part 2: Basic Blinky](./blinky_lpc11uxx/tutorial_part2)
