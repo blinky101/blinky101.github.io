@@ -20,7 +20,7 @@ Below you find a list of supported platforms. Each platform has a set of guides 
     * [Part 2: Basic Blinky](./blinky_lpc11uxx/tutorial_part2)
     * [Part 3: CPM Blinky](./blinky_lpc11uxx/tutorial_part3)
     
-* **lpc43xx Series**
+* **[lpc43xx Series Guide](https://blinky101.github.io/blinky_lpc11uxx/)**
 
     Dual-core cortex-M4 + cortex-M0 microcontroller, 204MHz, USB 2.0 High-Speed.
     
