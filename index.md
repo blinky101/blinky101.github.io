@@ -2,7 +2,9 @@
 
 Blinky101 is a collection of projects that helps you get up to speed with various microcontroller platforms. The goal is to provide step by step tutorials and guides to help you start developing using open source tools.
 
-When you want to start developing with a new microcontroller you need to get it working as soon as possible. That way you know that your hardware is sound and you can fully focus on learning all the microcontrollers ins and outs. The Blinky101 project is focussed on just one thing: getting a LED to blink, which is the *Hello World* program of microcontrollers. Once you have a blinky running, you can expand the program to do more advanced stuff.
+When you want to start developing with a new microcontroller you need to get it working as soon as possible. That way you know that your hardware is sound and you can fully focus on learning all the microcontrollers ins and outs.
+
+The Blinky101 project is focussed on just one thing: getting a LED to blink, which is the *Hello World* program of microcontrollers. Once you have a blinky running, you can expand the program to do more advanced stuff.
 
 ## Guides by microcontroller platform
 
