@@ -10,9 +10,7 @@ The Blinky101 project is focussed on just one thing: getting a LED to blink, whi
 
 Below you find a list of supported platforms. Each platform has a set of guides that gets you started with setting up the debugger and creating your own firmware.
 
-* **[lpc11uxx Series Guide](https://blinky101.github.io/blinky_lpc11uxx/)**
-
-    Entry-level 32-bit cortex-m0 microcontrollers, 50MHz, built-in USB.
+* **[lpc11uxx Series](https://blinky101.github.io/blinky_lpc11uxx/)**: Entry-level 32-bit cortex-m0 microcontrollers, 50MHz, built-in USB.
     
     Tutorials:
     * [Part 0: Getting Started](./blinky_lpc11uxx/getting_started)
@@ -20,11 +18,13 @@ Below you find a list of supported platforms. Each platform has a set of guides 
     * [Part 2: Basic Blinky](./blinky_lpc11uxx/tutorial_part2)
     * [Part 3: CPM Blinky](./blinky_lpc11uxx/tutorial_part3)
     
-* **[lpc43xx Series Guide](https://blinky101.github.io/blinky_lpc43xx/)**
-
-    Dual-core cortex-M4 + cortex-M0 microcontroller, 204MHz, USB 2.0 High-Speed.
+* **[lpc43xx Series](https://blinky101.github.io/blinky_lpc43xx/)**: Dual-core cortex-M4 + cortex-M0 microcontroller, 204MHz, USB 2.0 High-Speed.
     
-    **Tutorials are not available yet**
+    Tutorials:
+    * [Part 0: Getting Started](./blinky_lpc43xx/getting_started)
+    * [Part 1: Bare-metal Blinky](./blinky_lpc43xx/tutorial_part1)
+    * [Part 2: Basic Blinky](./blinky_lpc43xx/tutorial_part2)
+    * [Part 3: CPM Blinky](./blinky_lpc43xx/tutorial_part3)
 
 
 ## Supported debuggers
